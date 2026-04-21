@@ -1,0 +1,3 @@
+module intersection
+
+go 1.26.1
